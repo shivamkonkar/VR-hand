@@ -16,8 +16,7 @@
    - 3.2 Technologies Used
 4. User Guide
    - 4.1 VR Controls
-   - 4.2 Interacting with Objects
-   - 4.3 Hand Animations
+   - 4.2 Hand Animations
 5. Developer Guide
    - 5.1 Script Overview
    - 5.2 Extending Functionality
