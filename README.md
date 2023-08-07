@@ -1,3 +1,6 @@
+[![Unity Version](https://img.shields.io/badge/Unity-2021.3.29f1-green)](https://unity.com/)
+[![Oculus Quest 2](https://img.shields.io/badge/Oculus%20Quest%202-Support-blue)](https://www.oculus.com/quest-2/)
+
 # VR Hands Project with Oculus Quest 2 Support - Documentation
 
 ## Table of Contents
