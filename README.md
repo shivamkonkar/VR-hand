@@ -55,8 +55,10 @@ To install and use the VR Hands Project with Meta Quest 2 support:
 1. Clone or download the project repository from [Github Link](https://github.com/shivamkonkar/VR-hand/archive/refs/heads/main.zip).
 2. Open Unity and create a new Unity project.
 3. Import the VR Hands Project assets into your Unity project.
-4. Ensure that your Meta Quest 2 headset is properly connected and recognized by Unity.
+4. Ensure that your Meta Quest 2 headset is properly connected and recognized by Unity. ( If your laptop has 2 graphics. Disable integrated from control panel > Display Adapter )
 5. Build and deploy the application to your Meta Quest 2 headset.
+
+   
 
 ## 3. Project Overview
 
